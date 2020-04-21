@@ -5,6 +5,8 @@ package PipneLine.Java;
 
 public class Library {
     public boolean someLibraryMethod() {
+      System.out.println("fueatyvvvvvvzzzzzádzzzzzzzzzzzzzzzzzzzzzzzzzzzxxre 4 ");
+
         return true;
     }
 }
