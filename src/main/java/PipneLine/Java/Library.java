@@ -5,7 +5,7 @@ package PipneLine.Java;
 
 public class Library {
     public boolean someLibraryMethod() {
-      System.out.println("Hmot hai ma b3 axz");
+      System.out.println("fueatyre 4 ");
         return true;
     }
 }
